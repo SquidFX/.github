@@ -1,4 +1,4 @@
-# Twisted Souls
+# Welcome
 
 https://discord.gg/tasUf6gA
 
