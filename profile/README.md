@@ -1,6 +1,5 @@
 # Welcome
-
-SquidFX Studio is a community supported television, film producer and distributer created to supply learning materials, assets & tools to assist in the pre-production, production, post-production, and delivery of a full-length movie, television series, news broadcast or documentary. 
+SquidFX is a community supported television, film producer and distributer created to supply learning materials, assets & tools to assist in the pre-production, production, post-production, and delivery of a full-length movie, television series, news broadcast or documentary. 
 
 # Discord Community
 https://discord.gg/tasUf6gA
