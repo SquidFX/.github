@@ -14,5 +14,16 @@ https://discord.gg/tasUf6gA
 #### Youtube Channel
 https://www.youtube.com/channel/UCJ9nn36tlGWROJ5e-q_zpGw
 
-#### Sponsor SquidFX
+#### Support SquidFX
 https://github.com/sponsors/SquidFX
+
+
+The funds will be used for a variety of purposes to support the mission and activities of SquidFX. Specifically, the funds will be used to:
+
+1. Apply for 501c3 (nonprofit) status for SquidFX.
+2. Purchase hardware and/or software for various 3D and VFX applications for dedicated SquidFX members who are in need and have low incomes or are economically disadvantaged.
+3. Provide monetary compensation to community members who contribute to SquidFX by completing project goals and tasks.
+4. Pay for the construction of a file server and the monthly fees associated with colocating the server.
+5. Cover the costs of batch rendering fees on Azure.
+
+Overall, the funds will be used to support the work of SquidFX and to provide resources and opportunities to its members and community."
