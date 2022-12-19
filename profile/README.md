@@ -13,3 +13,6 @@ https://discord.gg/tasUf6gA
 
 #### Youtube Channel
 https://www.youtube.com/channel/UCJ9nn36tlGWROJ5e-q_zpGw
+
+#### Sponsor SquidFX
+https://github.com/sponsors/SquidFX
